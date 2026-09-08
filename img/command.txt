@@ -1,0 +1,14 @@
+git status - check the status of git 
+git add <filename> or (.)- it add the file from working dict to staged 
+git commit -m "commits" - it transfer from staged to remote dict 
+git log or git log --online - it shows all the commits happend 
+git config --globla user.name or user.email - it sets the user name nad the user email
+git branch - it gives workung bramch 
+git switch <branch name > - it switch the branches 
+git switch -c <branch name > - it creates the branch an ddierecty put you in the branch 
+git branch -d <branch name> - to delete the branch
+stashing - it store the preocess temporly which helps us the pause the work and do other task 
+git stash - it saved the the modification or other preoces
+git stash list - it gives the list of stash created 
+
+dfdifudhfdfid

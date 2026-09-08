@@ -10,5 +10,10 @@ git branch -d <branch name> - to delete the branch
 stashing - it store the preocess temporly which helps us the pause the work and do other task 
 git stash - it saved the the modification or other preoces
 git stash list - it gives the list of stash created 
-
-dfdifudhfdfid
+git stash pop - to see the stash 
+git tag <tag name>(lightweight tag )
+git tag -a <tag name> -m <commits> (annoted tag)
+git remote add origin <copied url>
+git remote -v <cheking wheter it worked>
+git branch -M main (changing the name from master to main )
+git push -u origin main ( we use -u fro first time pushing to repo normally just git push)

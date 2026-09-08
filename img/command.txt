@@ -20,7 +20,7 @@ git push -u origin main ( we use -u fro first time pushing to repo normally just
 
 dfdifudhfdfid 
 djfkdjfdlkfdlkf
-<<<<<<< HEAD
+
 
 =======
 jvchjvhckjvhkckjv

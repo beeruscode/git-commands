@@ -18,10 +18,4 @@ git remote -v <cheking wheter it worked>
 git branch -M main (changing the name from master to main )
 git push -u origin main ( we use -u fro first time pushing to repo normally just git push)
 
-dfdifudhfdfid 
-djfkdjfdlkfdlkf
 
-
-=======
-jvchjvhckjvhkckjv
->>>>>>> 98d843ed3d68baf39d716c7dbaf84adceaefa0d1

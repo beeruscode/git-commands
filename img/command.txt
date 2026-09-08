@@ -18,3 +18,4 @@ git remote -v <cheking wheter it worked>
 git branch -M main (changing the name from master to main )
 git push -u origin main ( we use -u fro first time pushing to repo normally just git push)
 am i nw
+am i aslo new 
